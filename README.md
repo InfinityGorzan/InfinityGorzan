@@ -1,7 +1,7 @@
-### InfinityGorzan
+# InfinityGorzan
 Hi! I am a software developer who develops programs in Python, C++ and Node.
 
-- I’m currently working on .my programming language (Q#)
-- If you want to help, go to the below link: 
+- I’m currently working on my app (TextPad-Notes)
 
-[https://github.com/InfinityGorzan/qsharp-contributers](https://github.com/InfinityGorzan/qsharp-contributers)
+## Other
+[https://github.com/InfinityGorzan/qsharp-contributers](Work with Q#)
